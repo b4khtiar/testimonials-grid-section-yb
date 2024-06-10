@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [Github page](https://your-live-site-url.com)
+- Live Site URL: [Github page](https://b4khtiar.github.io/testimonials-grid-section-yb/)
 
 ## My process
 
